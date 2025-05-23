@@ -1,0 +1,5 @@
+# Ignora dependências
+node_modules/
+
+# Arquivos de ambiente
+.env
